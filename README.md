@@ -5,6 +5,7 @@ This repository includes our works on DimDroid: An Efficient and Fine-Grained Me
 for Detecting Android Fake Applications.
 
 The ideas behind our works can be abstracted and demonstrated in the following big picture.
+
 ![big picture](./img/fake5.png)
 
 ## Introduction
