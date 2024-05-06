@@ -6,7 +6,7 @@ for Detecting Android Fake Applications.
 
 The ideas behind our works can be abstracted and demonstrated in the following big picture.
 
-![big picture](./img/fake5.png)
+![big picture](./img/fake6.png)
 
 ## Introduction
 
